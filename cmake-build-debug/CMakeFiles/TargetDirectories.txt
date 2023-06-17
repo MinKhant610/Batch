@@ -1,0 +1,3 @@
+/Users/minkhant/C++ source code/cmake-build-debug/CMakeFiles/C___source_code.dir
+/Users/minkhant/C++ source code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minkhant/C++ source code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
