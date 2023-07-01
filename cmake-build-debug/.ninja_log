@@ -1,0 +1,6 @@
+# ninja log v5
+0	392	1688182181835940858	CMakeFiles/C___source_code.dir/main.cpp.o	8cf5ea56fb6691c3
+0	390	1688182181835939441	CMakeFiles/C___source_code.dir/operator.cpp.o	b1071586741bc2a3
+1	43	1688182273743736776	build.ninja	a2d37d6ff0c14c43
+5	271	1688182274018723068	CMakeFiles/C___source_code.dir/operator.cpp.o	b1071586741bc2a3
+5	277	1688182871678887876	CMakeFiles/C___source_code.dir/operator.cpp.o	b1071586741bc2a3
