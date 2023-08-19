@@ -14,8 +14,8 @@ int main(){
     cout << myStructure.name << endl;
     cout << myStructure.age << endl;
 
-    myStructure.name = "Kyaw Kyaw";
-    myStructure.age = 19;
+    mystructure2.name = "Kyaw Kyaw";
+    mystructure2.age = 19;
 
     cout << myStructure.name << endl;
     cout << myStructure.age << endl;
