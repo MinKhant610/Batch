@@ -1,0 +1,16 @@
+
+Name : MinKhant
+Major :Mc
+Roll Num : 13
+Phone Num : 912345
+-------------------------------------
+Name : MawGyi
+Major :Mc
+Roll Num : 27
+Phone Num : 912345
+-------------------------------------
+Name : MyatThu
+Major :Mc
+Roll Num : 18
+Phone Num : 9123454
+-------------------------------------

@@ -3,14 +3,22 @@
 using namespace std;
 
 int main(){
-    ofstream file("text.txt");
-    file << "Hello" << endl;
-    file.close();
-    string mytext;
-    fstream readfile("text.txt");
-    while(getline(readfile, mytext)){
-        cout << mytext;
+    /*
+    ofstream => file create 
+    ifstream => read file 
+    fstream => ofstream + ifstream
+    */
+   //       any_name
+   ofstream createFile("text.txt", ios::app);
+   createFile << "Hello world" << endl;
+
+   ifstream readFile("text.txt");
+   string output;
+    while(getline(readFile, output)){
+        cout << output << endl;
     }
-    readfile.close();
-    
+    createFile.close();
+    readFile.close();
+   return 0;
+
 }
