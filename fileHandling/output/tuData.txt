@@ -1,16 +1,15 @@
-
-Name : MinKhant
-Major :Mc
-Roll Num : 13
-Phone Num : 912345
+Name : HanLinOo
+Major :mechtronics
+Roll Num : 10
+Phone Num : 123456789
 -------------------------------------
-Name : MawGyi
-Major :Mc
-Roll Num : 27
-Phone Num : 912345
+Name : BhoneMyatHtet
+Major :mechtronics
+Roll Num : 22
+Phone Num : 123456789
 -------------------------------------
-Name : MyatThu
-Major :Mc
-Roll Num : 18
-Phone Num : 9123454
+Name : PyaeSoneMaung
+Major :mechtronics
+Roll Num : 1
+Phone Num : 123456789
 -------------------------------------

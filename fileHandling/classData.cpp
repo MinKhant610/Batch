@@ -38,8 +38,9 @@ int main(){
 
         dataInput(name, major, roll_number, phone_number);
         cout << "Data store successfully" << endl;
+        TuData.close();
     }
-    TuData.close();
+
 
     return 0;
 }
